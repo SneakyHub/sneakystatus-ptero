@@ -135,16 +135,3 @@ The currently supported languages ​​are English(en) and German(de)
 ### Bearer Authentication:
 The option bearer_token can be set in the DAEMON and CONTROLLER, it will make sure that only your nodes can communicate with eatch other.  
 If you are using this it is recommended to use HTTPS for extra security.  
-
-# Support
-Need some help setting up Ptero-Status?
-Join BlueFox Development's Discord
-> [https://discord.gg/KHbBfWSdnZ](https://discord.gg/KHbBfWSdnZ)
- 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
